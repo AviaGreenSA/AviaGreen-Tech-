@@ -176,3 +176,31 @@ footer {
   color: var(--accent-color); /* Hover color */
   transform: scale(1.2); /* Slightly enlarge on hover */
   }
+
+  .hero-section {
+    position: relative;
+    z-index: 1;
+}
+.features-section {
+    position: relative;
+    z-index: 2;
+    }
+
+@media screen and (max-width: 768px) {
+    .hero-section {
+        padding-bottom: 150px; /* Add space at the bottom */
+    }
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+@media screen and (max-width: 768px) {
+    .hero-section {
+        order: 2;
+    }
+    .features-section {
+        order: 1;
+    }
+    }
