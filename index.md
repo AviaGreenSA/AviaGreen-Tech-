@@ -1,5 +1,5 @@
 ---
 layout: home
-title: AviaGreen
+title: AviaGreen Tech
 ---
 Welcome to AviaGreen Tech!
