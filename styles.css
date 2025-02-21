@@ -175,4 +175,4 @@ footer {
 .social-icons a:hover {
   color: var(--accent-color); /* Hover color */
   transform: scale(1.2); /* Slightly enlarge on hover */
-}
+  }
