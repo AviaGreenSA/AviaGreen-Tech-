@@ -2,4 +2,4 @@
 layout: home
 title: AviaGreen
 ---
-Welcome to AviaGreen's website!
+Welcome to AviaGreen Tech!
